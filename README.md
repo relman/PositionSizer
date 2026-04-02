@@ -1,5 +1,6 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 # Position Sizer
+
+This is FORK
 
 The Position Sizer expert advisor for MT4 and MT5 by EarnForex.com.
 
